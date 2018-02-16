@@ -10,6 +10,7 @@ namespace Tictactoe
     {
         static void Main(string[] args)
         {
+            TicTacToe game = new TicTacToe();
         }
     }
 }
